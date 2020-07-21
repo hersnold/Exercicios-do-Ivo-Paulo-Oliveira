@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XgUeQ0NPk2SEpuawMXZUfrsE0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Application.Exercicio06">
+    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio01.Exercicio01" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio03.Exercicio03" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio04.Exercicio04" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio05.Exercicio05" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio06.Exercicio06" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio07.Exercicio07" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercicio06" />
+        <item itemvalue="Application.Exercicio05" />
+        <item itemvalue="Application.Exercicio07" />
+        <item itemvalue="Application.Exercicio04" />
+        <item itemvalue="Application.Exercicio03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9320eb69-8d03-4a54-807c-20c889a44d78" name="Default Changelist" comment="" />
+      <created>1581467327406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581467327406</updated>
+      <workItem from="1595283538507" duration="23000" />
+    </task>
+    <task id="LOCAL-00001" summary="Exercicios">
+      <created>1595294862460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595294862460</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercicios">
+      <created>1595295179133</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595295179133</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exercicios" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicios" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser" timestamp="1595289896024">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="221" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1595289896024" />
+    <state x="623" y="399" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1595285909573">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="623" y="399" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1680.1010@0.0.1680.1010" timestamp="1595285909573" />
+    <state x="467" y="73" key="CommitChangelistDialog2" timestamp="1595295176079">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="467" y="73" key="CommitChangelistDialog2/0.0.1680.1010@0.0.1680.1010" timestamp="1595295176079" />
+    <state x="620" y="222" key="FileChooserDialogImpl" timestamp="1595287884334">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="620" y="222" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1595287884334" />
+    <state width="1637" height="236" key="GridCell.Tab.0.bottom" timestamp="1595294617409">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="236" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1595294617409" />
+    <state width="1637" height="236" key="GridCell.Tab.0.center" timestamp="1595294617409">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="236" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1595294617409" />
+    <state width="1637" height="236" key="GridCell.Tab.0.left" timestamp="1595294617409">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="236" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1595294617409" />
+    <state width="1637" height="236" key="GridCell.Tab.0.right" timestamp="1595294617409">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="236" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1595294617409" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1595283539256">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1595283539256" />
+    <state x="649" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595295008752">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="649" y="419" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1010@0.0.1680.1010" timestamp="1595295008752" />
+  </component>
+</project>
